@@ -1,0 +1,13 @@
+{
+    "name": "gapple/phpcs-php8-stdclass",
+    "description": "Test for PHPCS support on PHP 8",
+    "require": {
+        "php": "^8.0"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.5"
+    },
+    "scripts": {
+        "phpcs": "phpcs"
+    }
+}
